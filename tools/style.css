@@ -82,7 +82,7 @@ div#shim {
 }
 
 div#content {
-	width: 600px;
+	width: 500px;
 	height: 280px;
 	margin: 0 auto;
 	clear: both;
@@ -105,10 +105,11 @@ height: auto;
 /* ]]> */
 
 .logo_box {
-	width: 199px;
+	padding-left: 25px;
+	width: 148px;
 	float: left;
 	border-right: 1px solid #303030;
-	height: 280px;
+	height: 230px;
 	position: relative;
 }
 
@@ -142,9 +143,9 @@ h3 {
 
 .main_box {
 	float: left;
-	width: 350px;
+	width: 300px;
 	height: 95px;
-	padding: 25px;
+	padding: 70px 0px 25px 25px;
 }
 
 form {
@@ -157,9 +158,8 @@ form {
 
 h2 {
 	font-family: Georgia;
-	color: #38668d;
+	color: #0d71ba;
 	font-size: 24px;
-	margin-bottom: 20px;
 }
 
 h2 span {
@@ -170,7 +170,7 @@ h2 span {
 }
 
 a {
-	color: #38668d;
+	color: #0d71ba;
 }
 
 ul.info {
